@@ -1,9 +1,15 @@
-# React TypeScript Starter Pack
+# List-cards
 
-To use this template click `Use this template`
+In my project I used some technologies such as React.js,Typescript, Bootstrap, Css.
 
-### Available Scripts
+-Link to preview: https://11olya112.github.io/mortal-combat/
 
-`Deploy` - available to deploy your application to gh-pages
+Additional startup instructions:
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+1.Fork the repository
+
+2.Clone the forked repo
+
+3.Run npm install to install the dependencies
+
+4.Run npm start

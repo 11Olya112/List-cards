@@ -2,7 +2,7 @@
 
 In my project I used some technologies such as React.js,Typescript, Bootstrap, Css.
 
--Link to preview: https://11olya112.github.io/mortal-combat/
+-Link to preview: https://11olya112.github.io/List-cards/
 
 Additional startup instructions:
 
